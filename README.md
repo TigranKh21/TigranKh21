@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TigranKh21
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and JS development
+- 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
